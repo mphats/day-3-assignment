@@ -39,9 +39,3 @@ These commands assume you already have a Git repository initialized in your loca
 
 1. `git remote add origin https://github.com/Powerlearnproject/se-assignment-day-3-environment-setup-mphats.git`: (This is the same as step 6 in the first scenario)
     - Defines a remote repository on GitHub.
-
-2. `git branch -M main`: (This is the same as step 5 in the first scenario)
-    - Renames the default branch to "main" (optional).
-
-3. `git push -u origin main`: (This is the same as step 7 in the first scenario)
-    - Pushes the local "main" branch to the remote repository.
